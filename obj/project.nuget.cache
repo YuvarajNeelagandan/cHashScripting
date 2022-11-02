@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8bSeC6EzHI+Q52zAhGqXLrp9dzVEREcBu0gf9Am09TqVEDbX/rUqGNPleDk7bKR5LDJAJAm48YS+1phOTwjqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleve\\source\\repos\\testEmisoft\\testEmisoft\\testEmisoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleve\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\eleve\\.nuget\\packages\\selenium.webdriver\\4.5.1\\selenium.webdriver.4.5.1.nupkg.sha512",
+    "C:\\Users\\eleve\\.nuget\\packages\\selenium.webdriver.chromedriver\\107.0.5304.6200\\selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512"
+  ],
+  "logs": []
+}
